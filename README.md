@@ -5,7 +5,7 @@
 1. **React** for Frontend and **Express** as Middleware.
 2. **Material UI** and **React-Bootstrap** for styling.
 
-## Quick Start
+## Quick Start to install necessary packages
 
 Clone the repository and do following:
 
